@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-feedback/static/css/main.0ea5a2ea.css",
-    "main.js": "/goit-react-hw-04-feedback/static/js/main.a0aa2ef6.js",
-    "static/media/no-result.png": "/goit-react-hw-04-feedback/static/media/no-result.b4a32637d7f239168cac.png",
-    "index.html": "/goit-react-hw-04-feedback/index.html",
-    "main.0ea5a2ea.css.map": "/goit-react-hw-04-feedback/static/css/main.0ea5a2ea.css.map",
-    "main.a0aa2ef6.js.map": "/goit-react-hw-04-feedback/static/js/main.a0aa2ef6.js.map"
+    "main.css": "/react-feedback-02/static/css/main.0ea5a2ea.css",
+    "main.js": "/react-feedback-02/static/js/main.f1b84e5c.js",
+    "static/media/no-result.png": "/react-feedback-02/static/media/no-result.b4a32637d7f239168cac.png",
+    "index.html": "/react-feedback-02/index.html",
+    "main.0ea5a2ea.css.map": "/react-feedback-02/static/css/main.0ea5a2ea.css.map",
+    "main.f1b84e5c.js.map": "/react-feedback-02/static/js/main.f1b84e5c.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea5a2ea.css",
-    "static/js/main.a0aa2ef6.js"
+    "static/js/main.f1b84e5c.js"
   ]
 }
